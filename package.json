@@ -1,0 +1,17 @@
+{
+  "name": "vitepress_xing",
+  "version": "1.0.0",
+  "description": "星导航",
+  "main": "index.js",
+  "author": "whatqiu",
+  "license": "MIT",
+  "devDependencies": {
+    "sass": "^1.69.5",
+    "vitepress": "^1.0.0-rc.30"
+  },
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  }
+}
